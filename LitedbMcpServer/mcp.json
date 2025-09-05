@@ -1,0 +1,16 @@
+{
+  "mcpServers": {
+    "litedb-mcp": {
+      "command": "dotnet",
+      "args": [
+        "run",
+        "--project",
+        "/full/path/to/csproj/file/litedb-mcp-server/LitedbMcpServer/LitedbMcpServer.csproj",
+        "--no-build",
+        "--",
+        "--database-path",
+        "/full/path/to/database/file.db"
+      ]
+    }
+  }
+}

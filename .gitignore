@@ -1,0 +1,22 @@
+.DS_Store
+
+# Build results
+[Bb]in/
+[Oo]bj/
+
+# Visual Studio files
+.vs/
+*.user
+*.userosscache
+*.suo
+*.userprefs
+
+# .NET Core
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# Local development files
+*.db-shm
+*.db-wal
+LitedbMcpServer/data/main-log.db
