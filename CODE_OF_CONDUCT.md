@@ -1,4 +1,5 @@
-## Code of Conduct
-This project has adopted the [Amazon Open Source Code of Conduct](https://aws.github.io/code-of-conduct).
-For more information see the [Code of Conduct FAQ](https://aws.github.io/code-of-conduct-faq) or contact
-opensource-codeofconduct@amazon.com with any additional questions or comments.
+# Code of Conduct
+
+Be respectful and professional in all interactions. Harassment, discrimination, or inappropriate behavior will not be tolerated.
+
+Report issues to the project maintainers.
